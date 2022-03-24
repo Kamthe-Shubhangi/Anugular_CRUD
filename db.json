@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "ww",
+      "lastname": "banana",
+      "email": "xyz@gmail.com"
+    }
+  ]
+}
